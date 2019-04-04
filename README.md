@@ -1,0 +1,2 @@
+# Hangman
+Javascript hangman WIP
